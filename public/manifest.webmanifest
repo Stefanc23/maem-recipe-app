@@ -1,0 +1,14 @@
+{
+  "name": "maem — recipes worth making again",
+  "short_name": "maem",
+  "description": "A pocket-sized recipe box for the dishes you make and love.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#f5f0e8",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/maem-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/maem-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

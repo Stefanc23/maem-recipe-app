@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">maem — recipes worth making again</title>
+  <desc id="desc">A warm recipe box for dishes worth remembering.</desc>
+  <rect width="1200" height="630" fill="#f5f0e8"/>
+  <circle cx="1050" cy="58" r="180" fill="#f4c86a" opacity=".34"/>
+  <circle cx="110" cy="590" r="150" fill="#dce5d8" opacity=".8"/>
+  <g transform="translate(78 72)">
+    <rect width="64" height="64" rx="20" fill="#df634b"/>
+    <g fill="none" stroke="#fffdf9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 29h26" stroke-width="4"/>
+      <path d="M21 35c2 10 6 14 11 14s9-4 11-14" stroke-width="4"/>
+      <path d="M27 23c-3-4 3-6 1-11M37 23c-3-4 3-6 1-11" stroke-width="3"/>
+    </g>
+    <text x="82" y="45" fill="#241c17" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-2">maem</text>
+  </g>
+  <text x="78" y="258" fill="#b84935" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">YOUR LITTLE RECIPE BOX</text>
+  <text x="72" y="350" fill="#241c17" font-family="Georgia, serif" font-size="76" letter-spacing="-4">Recipes worth</text>
+  <text x="72" y="430" fill="#241c17" font-family="Georgia, serif" font-size="76" letter-spacing="-4">making again.</text>
+  <text x="78" y="508" fill="#746b62" font-family="Arial, sans-serif" font-size="20">Snap the dish. Leave a note. Find it later.</text>
+  <g transform="translate(850 170)">
+    <rect width="260" height="300" rx="130" fill="#df634b"/>
+    <g fill="none" stroke="#fffdf9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M53 137h154" stroke-width="20"/>
+      <path d="M67 158c9 55 33 80 63 80s54-25 63-80" stroke-width="20"/>
+      <path d="M101 104c-15-19 17-27 3-52M160 104c-15-19 17-27 3-52" stroke-width="16"/>
+    </g>
+  </g>
+</svg>
